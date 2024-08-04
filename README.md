@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @haaymonster
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning next.js and typescript
+- 👀 I’m interested in web development and all the other fun stuff
 - 📫 imhayleylee@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
